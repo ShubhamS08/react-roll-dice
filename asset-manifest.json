@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-roll-dice/static/css/main.d932b041.css",
+    "main.js": "/react-roll-dice/static/js/main.bc709243.js",
+    "index.html": "/react-roll-dice/index.html",
+    "main.d932b041.css.map": "/react-roll-dice/static/css/main.d932b041.css.map",
+    "main.bc709243.js.map": "/react-roll-dice/static/js/main.bc709243.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d932b041.css",
+    "static/js/main.bc709243.js"
+  ]
+}
